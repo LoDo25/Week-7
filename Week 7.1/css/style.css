@@ -1,0 +1,14 @@
+h1, h4{
+	color: black;
+	text-align: center;
+}
+
+.canvas {
+	text-align: center;
+}
+
+img {
+	height: 250px;
+	width: 250px;
+	margin: 15px 0;
+} 
